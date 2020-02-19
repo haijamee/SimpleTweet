@@ -31,7 +31,8 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<img src="https://media.giphy.com/media/jQnwoMIE9MEnBHZViH/giphy.gif" width=250><br>
+
+<img src="https://im3.ezgif.com/tmp/ezgif-3-5833066c3257.gif" width=250><br>
 
 
 
