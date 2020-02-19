@@ -32,7 +32,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://media.giphy.com/media/jQnwoMIE9MEnBHZViH/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://gph.is/g/EGg3xpl' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ## Open-source libraries used
