@@ -36,7 +36,7 @@ Here's a walkthrough of implemented user stories:
 
 
 ## Notes
-I couldn't get the character count to work initially because I forgot it required a certain dependency. 
+I couldn't get the character count to work initially because I forgot it required a certain dependency. Also, I'm not sure why my gifs aren't properly showing up. 
 
 
 ------------------------------------
